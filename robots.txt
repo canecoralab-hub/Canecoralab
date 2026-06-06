@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://canecoralab-hub.github.io/Canecoralab/sitemap.xml
+Sitemap: https://canecoralab-hub.github.io/Canecoralab/sitemap.txt
